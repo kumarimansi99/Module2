@@ -329,3 +329,8 @@ Caused by: java.net.UnknownHostException: flightdb.cxlcc0rkdt4u.ap-south-1.rds.a
 = 2022-07-15 12:06:27 - Initializing Servlet 'dispatcherServlet'
 = 2022-07-15 12:06:27 - Completed initialization in 4 ms
 = 2022-07-15 12:06:30 - Init duration for springdoc-openapi is: 1898 ms
+= 2022-07-15 15:19:41 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h5m58s383ms486µs800ns).
+= 2022-07-15 18:07:08 - Application shutdown requested.
+= 2022-07-15 18:07:09 - Closing JPA EntityManagerFactory for persistence unit 'default'
+= 2022-07-15 18:07:09 - HikariPool-1 - Shutdown initiated...
+= 2022-07-15 18:07:11 - HikariPool-1 - Shutdown completed.
