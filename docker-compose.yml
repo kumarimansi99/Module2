@@ -15,5 +15,5 @@ services:
     ports:
       - 5432:5432
     environment:
-      POSTGRES_DB: FlightBooking
+      POSTGRES_DB: flight
       POSTGRES_PASSWORD: postgres
